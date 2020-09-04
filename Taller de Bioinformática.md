@@ -1,6 +1,7 @@
 # Taller de Bioinformática
 
-Tengo antecedentes de cursos de bioinformática, sin embargo con este nuevo proyecto de doctorado *El exoma del adenocarcinoma pulmonar en México* aspiro a desarrollar habilidad en el campo de la bioinformática y poder construir scripts más complejos por mí misma, así como resolver problemas ligados a el desarrollo de los mismos. 
+Tengo antecedentes de haber tomado algunos cursos de bioinformática (shell, perl, R, pyhton y otros básicos relacionados). Sin embargo con este nuevo proyecto que incluye un análisis de exoma aspiro a desarrollar mis habilidades en este campo y poder construir scripts más complejos por mí misma, de una forma más eficiente, así como resolver problemas ligados al desarrollo de los mismos. 
+
 
 #### Algunos ejemplos de código que he realizado.  
 
