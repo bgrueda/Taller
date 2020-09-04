@@ -10,7 +10,7 @@ Tengo antecedentes de haber tomado algunos cursos de bioinformática (shell, per
 ```perl
 #!/usr/bin/perl
 
-# IDENTIFICA SI UNA SECUENCIA ES PALÍNDROME
+# IDENTIFICA SI UNA SECUENCIA ES PALÍNDROMA
 print "\n Este programa te dice si tu secuencia es o no palíndrome \n";
 
 print "\n ESCRIBE AQUÍ TU SECUENCIA: \n";
@@ -18,8 +18,8 @@ $rna = <STDIN>;
 chomp ($rna);
 $rna2 = reverse($rna);
 if ($rna eq $rna2)
-{print "Tu secuencia es palíndrome\n";}
-else {print "Tu secuencia no es palíndrome\n";}
+{print "Tu secuencia es palíndroma\n";}
+else {print "Tu secuencia no es palíndroma\n";}
 
 print "\n ¡Gracias por usar este programa! \n"
 ```
